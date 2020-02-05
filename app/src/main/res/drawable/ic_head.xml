@@ -1,0 +1,33 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="512dp"
+    android:height="512dp"
+    android:viewportWidth="512"
+    android:viewportHeight="512">
+  <path
+      android:pathData="m48,240h64v160h-64z"
+      android:fillColor="#3e3d42"/>
+  <path
+      android:pathData="m16,280h32v80h-32z"
+      android:fillColor="#ffda44"/>
+  <path
+      android:pathData="m464,400l-64,-0l-0,-160l64,-0z"
+      android:fillColor="#3e3d42"/>
+  <path
+      android:pathData="m496,360l-32,-0l-0,-80l32,-0z"
+      android:fillColor="#ffda44"/>
+  <path
+      android:pathData="m64,216h32v24h-32z"
+      android:fillColor="#e0e0e2"/>
+  <path
+      android:pathData="m416,216h32v24h-32z"
+      android:fillColor="#e0e0e2"/>
+  <path
+      android:pathData="M240,448L272,448A16,16 0,0 1,288 464L288,464A16,16 0,0 1,272 480L240,480A16,16 0,0 1,224 464L224,464A16,16 0,0 1,240 448z"
+      android:fillColor="#ffda44"/>
+  <path
+      android:pathData="m208,32h96v48h-96z"
+      android:fillColor="#2d2d30"/>
+  <path
+      android:fillColor="#FF000000"
+      android:pathData="m496,272h-24v-32a8,8 0,0 0,-8 -8h-8v-16a8,8 0,0 0,-8 -8h-8v-24c0,-72.3 -56.72,-131.6 -128,-135.76v-16.24a8,8 0,0 0,-8 -8h-96a8,8 0,0 0,-8 8v16.24c-71.28,4.16 -128,63.46 -128,135.76v24h-8a8,8 0,0 0,-8 8v16h-8a8,8 0,0 0,-8 8v32h-24a8,8 0,0 0,-8 8v80a8,8 0,0 0,8 8h24v32a8,8 0,0 0,8 8h64a8,8 0,0 0,8 -8v-160a8,8 0,0 0,-8 -8h-8v-16a8,8 0,0 0,-8 -8h-8v-24a120.153,120.153 0,0 1,112 -119.73v15.73a8,8 0,0 0,8 8h96a8,8 0,0 0,8 -8v-15.73a120.153,120.153 0,0 1,112 119.73v24h-8a8,8 0,0 0,-8 8v16h-8a8,8 0,0 0,-8 8v160a8,8 0,0 0,8 8h23.42a56.086,56.086 0,0 1,-55.42 48h-73.38a24.031,24.031 0,0 0,-22.62 -16h-32a24,24 0,0 0,0 48h32a24.031,24.031 0,0 0,22.62 -16h73.38a72.083,72.083 0,0 0,71.54 -64h24.46a8,8 0,0 0,8 -8v-32h24a8,8 0,0 0,8 -8v-80a8,8 0,0 0,-8 -8zM40,352h-16v-64h16zM72,224h16v8h-16zM104,248v144h-48v-144zM296,72h-80v-32h80zM272,472h-32a8,8 0,0 1,0 -16h32a8,8 0,0 1,0 16zM424,224h16v8h-16zM456,392h-48v-144h48zM488,352h-16v-64h16z"/>
+</vector>
